@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgba(68, 5, 5, 0.954);
+    background-color: rgba(29, 0, 90, 0.502);
     text-align: center;
 }
 
 h1 {
-    color: rgba(54, 39, 223, 0.717);
+    color: rgb(0, 0, 0);
 }
 
 header {
@@ -16,7 +16,7 @@ header {
 .centro {
     text-align: center;
 }
-.centro-foto {
+.container {
     position: absolute;
     top: 50%;
     left: 50%;
