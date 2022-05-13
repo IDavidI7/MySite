@@ -3,6 +3,11 @@
 body {
     background-color: rgba(89, 83, 163, 0.553);
     text-align: center;
+    font-size: x-large;
+    font-family: 'Anton', sans-serif;
+}
+img {
+    size: 100px;
 }
 
 h1 {
@@ -22,3 +27,4 @@ header {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
