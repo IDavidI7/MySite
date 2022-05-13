@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(240, 222, 190);
+    ruby-align: center;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(87, 8, 8);
+}
+
