@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    background-color: #88b8f7a5;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Anton', sans-serif;
+}
+.Titulo {
+    color: rgba(0, 0, 0, 0.717);
+}
+
+header {
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    size: 500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+}
+
+.redesSociais {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.linkedin {
+    text-decoration: none;
+    margin: 6px;
+    color: rgb(7, 29, 95);
+}
+
+.image {
+    width: 36px;
+}
+
+
+.linkedin:hover {
+    color: rgb(143, 81, 198);
+}
+
+.github {
+    text-decoration: none;
+    margin: 6px;
+    color: rgb(50, 43, 43);
+}
+
+.github:hover {
+    color: rgb(143, 81, 198);
+}
+
+.instagram {
+    text-decoration: none;
+    margin: 6px;
+    color: rgb(119, 8, 8);
+}
+
+.instagram:hover {
+    color: rgb(143, 81, 198);
+}
+
